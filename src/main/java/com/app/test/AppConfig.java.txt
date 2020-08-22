@@ -1,0 +1,9 @@
+package com.app.config;
+
+class AppConfi{
+ 
+   public Docket docket(){
+ 
+return null;
+    }
+}
